@@ -16,8 +16,6 @@ a {
   color: #e25e3e;
   font-size: 1rem;
   display: inline-block;
-  min-width: 44px;
-  min-height: 44px;
 }
 
 a:hover {
